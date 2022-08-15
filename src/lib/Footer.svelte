@@ -7,6 +7,7 @@
     text-align: center;
     margin-top: 10vh;
     margin-bottom: 2vh;
+    border-top: 1px solid grey;
     display: flex;
     align-items: center;
     justify-content: center;
