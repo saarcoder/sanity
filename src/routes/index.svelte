@@ -7,14 +7,14 @@
 </script>
 
 <svelte:head>
-  <title>Blog</title>
+  <title>Beiträge</title>
 </svelte:head>
 
-<h1>Recent posts</h1>
+<h1>Neueste Beiträge</h1>
 
 <PostsGrid {posts} />
 
-<h2 style="margin-top: 4rem">Author{authors.length > 1 ? 's' : ''}</h2>
+<h2 style="margin-top: 4rem">Autor{authors.length > 1 ? 's' : ''}</h2>
 
 {#each authors as author}
   <AuthorCard {author} />
