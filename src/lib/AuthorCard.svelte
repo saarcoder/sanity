@@ -18,7 +18,7 @@
     display: inline-flex;
     align-items: center;
     gap: 0.5em;
-    vertical-align: middle;svelte-1uqk20a
+    vertical-align: middle;
     text-decoration: none;
     color: black;
   }
