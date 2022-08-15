@@ -49,4 +49,5 @@
   }
   body {
     max-width: 80ch;
+  }
 </style>
