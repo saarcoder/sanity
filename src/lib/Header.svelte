@@ -10,12 +10,12 @@
 </script>
 
 <header>
-  <span>{blogTitle}</span>
   <nav>
     <ul>
       <li><a data-selected={pathname === '/'} href="/">Startseite</a></li>
     </ul>
   </nav>
+  <span>{blogTitle}</span>
 </header>
 
 <style>
