@@ -18,7 +18,9 @@
     display: inline-flex;
     align-items: center;
     gap: 0.5em;
-    vertical-align: middle;
+    vertical-align: middle;svelte-1uqk20a
+    text-decoration: none;
+    color: black;
   }
   span :global(img) {
     border-radius: 50%;
