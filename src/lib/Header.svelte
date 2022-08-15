@@ -31,6 +31,7 @@
   a {
     text-decoration: none;
     display: block;
+    color: black
   }
 
   header {
@@ -39,6 +40,12 @@
     justify-content: space-between;
     align-items: flex-start;
     padding: 1em;
+  }
+  header span {
+    background-color: ##f71186;
+    color: white;
+    font-weight: bold;
+    padding: .5rem;
   }
   @media screen and (min-width: 400px) {
     header {
