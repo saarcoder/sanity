@@ -3,7 +3,7 @@
   import Footer from '$lib/Footer.svelte'
 </script>
 
-<Header blogTitle={'Einfach gesund'} />
+<Header blogTitle={'Kerngesund'} />
 
 <main style="padding: 1em">
   <slot />
