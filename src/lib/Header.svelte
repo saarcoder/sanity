@@ -42,10 +42,10 @@
     padding: 1em;
   }
   header span {
-    background-color: #f71186;
+    background-color: #f71070;
     color: white;
     font-weight: bold;
-    padding: .5rem;
+    padding: .35rem .5rem;
   }
   @media screen and (min-width: 400px) {
     header {
