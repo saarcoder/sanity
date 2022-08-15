@@ -3,7 +3,7 @@
 </script>
 
 <script>
-  export let blogTitle = 'My Blog'
+  export let blogTitle = 'Kerngesund'
 
   let path
   $: ({pathname} = $page)
