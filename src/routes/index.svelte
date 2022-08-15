@@ -7,10 +7,10 @@
 </script>
 
 <svelte:head>
-  <title>Beiträge</title>
+  <title>Kerngesund</title>
 </svelte:head>
 
-<h1>Neueste Beiträge</h1>
+<h1>Kerngesund</h1>
 
 <PostsGrid {posts} />
 
