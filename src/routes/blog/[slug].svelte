@@ -16,9 +16,9 @@
 
 <h1>{post.title}</h1>
 <p>
-  Published {new Date(post.publishedAt).toLocaleDateString('en', {
-    month: 'long',
+  Published {new Date(post.publishedAt).toLocaleDateString('de', {
     day: '2-digit',
+    month: 'long',
     year: 'numeric'
   })}
 </p>
