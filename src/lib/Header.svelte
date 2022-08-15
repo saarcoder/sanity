@@ -42,7 +42,7 @@
     padding: 1em;
   }
   header span {
-    background-color: ##f71186;
+    background-color: #f71186;
     color: white;
     font-weight: bold;
     padding: .5rem;
