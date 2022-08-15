@@ -47,7 +47,4 @@
       background: #121923;
     }
   }
-  body {
-    max-width: 80ch;
-  }
 </style>
