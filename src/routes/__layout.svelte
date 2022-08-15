@@ -20,7 +20,7 @@
     --desktop-font-size: 1.2rem/1.5;
     --mobile-font-size: 1rem/1.4;
     --text-color: #2d2d2d;
-    --link-color: darkblue;
+    --link-color: black;
     --link-color-alt: #1d5dc1;
     --primary-color: lightsteelblue;
     --secondary-color: aliceblue;
