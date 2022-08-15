@@ -16,7 +16,7 @@
 
 <h1>{post.title}</h1>
 <p>
-  Published {new Date(post.publishedAt).toLocaleDateString('de', {
+  Veröffentlicht am {new Date(post.publishedAt).toLocaleDateString('de', {
     day: '2-digit',
     month: 'long',
     year: 'numeric'
